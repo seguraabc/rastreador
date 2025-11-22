@@ -1,0 +1,7 @@
+{
+  "name": "Rastreador",
+  "description": "A silent, collaborative BLE scanner for the PetTrackr network. Detects lost pet beacons and anonymously reports location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
